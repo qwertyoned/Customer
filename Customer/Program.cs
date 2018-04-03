@@ -249,6 +249,7 @@ namespace Customer
 
 
             //Console.WriteLine("{0:C}", 10);
+	    Console.WriteLine("О, привіт");
         }
     }
 }
